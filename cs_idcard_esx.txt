@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"Added option to create unlimited custom licenses (hunting, fishing, etc.) + Minor issue in ESX where other person can't see ur ID fixed"}
+{"version":"1.4", "notes":"Major Update which includes ID Expiration Feature + More, Read More on Discord :)"}
