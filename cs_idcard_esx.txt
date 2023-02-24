@@ -1,1 +1,1 @@
-{"version":"1.4", "notes":"Major Update which includes ID Expiration Feature + More, Read More on Discord :)"}
+{"version":"1.5", "notes":"Some New Settings + Bug Fixes Check Discord for More Info"}
