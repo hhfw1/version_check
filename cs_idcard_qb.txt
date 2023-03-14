@@ -1,1 +1,1 @@
-{"version":"1.6", "notes":"sometimes id doesnt close fix (*replace client.lua)"}
+{"version":"1.7", "notes":"Major Change Check Discord for update logs | Download Latest Version"}

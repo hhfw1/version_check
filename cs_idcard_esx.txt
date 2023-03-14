@@ -1,1 +1,1 @@
-{"version":"1.6", "notes":"issue in fetching id fix, date of birth issue fix, sometimes id doesnt close fix (*only client.lua and server.lua changes"}
+{"version":"1.7", "notes":"Major Change Check Discord for update logs | Download Latest Version"}
