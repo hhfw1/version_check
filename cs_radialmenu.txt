@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":"First Version!"}
+{"version":"1.1", "notes":"Fix Getting Blank Radial Menu | Download Latest Version(*You can only replace main.js)!"}
