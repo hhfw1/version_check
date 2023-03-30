@@ -1,1 +1,1 @@
-{"version":"1.7", "notes":"Major Change Check Discord for update logs | Download Latest Version"}
+{"version":"1.8", "notes":"Added New Event To Register Card with UI + Minor Changes | Download Latest Version (Nothing Changed in config so no need to replace)"}
