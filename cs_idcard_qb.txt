@@ -1,1 +1,1 @@
-{"version":"1.8", "notes":"Added New Event To Register Cards without using UI + Auto Disappear ID Feature + Minor css changes | Download Latest Version (Nothing Changed in config so no need to replace)"}
+{"version":"1.9", "notes":"Added QS Inventory Support + Added UI Animations"}
