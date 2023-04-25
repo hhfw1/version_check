@@ -1,1 +1,1 @@
-{"version":"1.9", "notes":"Added QS Inventory Support + Added UI Animations"}
+{"version":"2.0", "notes":"Profile Pic Issue with non metadata fixed+QS Inventory Support"}
