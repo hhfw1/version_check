@@ -1,1 +1,1 @@
-{"version":"2.0", "notes":"Profile Pic Issue with non metadata fixed+QS Inventory Support"}
+{"version":"2.1", "notes":"Latest Version Much More Optimized Code"}
