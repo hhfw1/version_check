@@ -1,1 +1,1 @@
-{"version":"2.2", "notes":"Latest Version Issue with the last update fixed 'Config didnt changed"}
+{"version":"2.3", "notes":"Latest Version: Issue with QS Inventory metadata fixed"}
