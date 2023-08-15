@@ -1,1 +1,1 @@
-{"version":"1.1", "notes":"Some important updates. Refer to Discord for information. Download the latest version"}
+{"version":"1.2", "notes":"Fixed Question/Answer Box Alignement . Download the latest version"}
