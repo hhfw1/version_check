@@ -1,1 +1,1 @@
-{"version":"2.3", "notes":"Latest Version: Issue with QS Inventory metadata fixed"}
+{"version":"2.4", "notes":"New Export Update Check Discord for Info"}
