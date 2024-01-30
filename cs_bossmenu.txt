@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"esx_society support check discord for more info"}
+{"version":"1.4", "notes":"Major Update, Check discord for more info, Download Latest Version"}
