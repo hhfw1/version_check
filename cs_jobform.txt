@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"Completely redesigned the apply form UI, Check Discord for more info. Download the latest version"}
+{"version":"1.4", "notes":"Major Update, Check Discord for changelogs. Download latest version"}
