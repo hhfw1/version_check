@@ -1,1 +1,1 @@
-{"version":"1.5", "notes":"Gang Menu Issue in QB Fixed + New Easier Config, Check discord for more info, Download Latest Version"}
+{"version":"1.6", "notes":"New Update (Minor Fixes and Code Refactor), Download Latest Version"}
