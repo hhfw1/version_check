@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":"Latest"}
+{"version":"1.0.1", "notes":"New Update (Minor Fixes), Download Latest Version | Nothing Changed in config.lua"}
