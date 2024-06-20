@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"Urgent update to fix the issue of not being able to buy multiple items. Only the main/server.lua file has been changed. Download latest version"}
+{"version":"1.2.1", "notes":"New Update UI Improvements. Download latest version"}
