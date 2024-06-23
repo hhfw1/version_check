@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"Fixed Issue with selling meth (*Replace main/server.lua)"}
+{"version":"1.3", "notes":"Major Update, Check Discord for Changelogs"}
