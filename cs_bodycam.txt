@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Minor Fixes (Nothing changed in config.lua), Download Latest Version"}
+{"version":"1.1.2", "notes":"New Update Check Discord for Logs, Download Latest Version"}
