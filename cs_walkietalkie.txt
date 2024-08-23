@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"New Update and Fixes, Refer to Discord for Info"}
+{"version":"1.4", "notes":"New Update, Refer to Discord for Info"}
