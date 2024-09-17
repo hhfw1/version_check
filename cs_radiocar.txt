@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":"Free New Car Radio, Download Latest Version"}
+{"version":"1.1", "notes":"Minor Fixes, Download Latest Version"}
