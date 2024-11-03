@@ -1,1 +1,1 @@
-{"version":"2.6.1", "notes":"Minor Code Refactor Update. Download latest version"}
+{"version":"2.6.2", "notes":"Quick Fix for the Job Badges. Download latest version"}
