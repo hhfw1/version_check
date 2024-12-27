@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"Important Minor Update. Download latest version"}
+{"version":"1.4.2", "notes":"Minor Update. Download latest version"}
