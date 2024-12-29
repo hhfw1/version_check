@@ -1,1 +1,1 @@
-{"version":"1.4.2", "notes":"New Update, Refer to Discord for Info"}
+{"version":"1.4.3", "notes":"Feature Added Highlight for Talking Member on Member List Overlay"}
