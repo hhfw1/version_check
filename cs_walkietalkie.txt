@@ -1,1 +1,1 @@
-{"version":"1.4.3", "notes":"Feature Added Highlight for Talking Member on Member List Overlay"}
+{"version":"1.4.4", "notes":"New Update, Download if you are facing any issue"}
