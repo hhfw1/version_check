@@ -1,1 +1,1 @@
-{"version":"1.9.2", "notes":"New Update (Fixes and Table Restrict Feature), Download Latest Version"}
+{"version":"1.9.3", "notes":"New Update (Fixes and Few New Options), Download Latest Version"}
