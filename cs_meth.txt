@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"New"}
+{"version":"1.4", "notes":"Major Code Refactor, Download Latest Update"}
