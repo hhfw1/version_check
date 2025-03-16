@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"New update fixes language special character issue and nearby player selection (config.lua not changed). Download the latest version"}
+{"version":"1.2.1", "notes":"New Update, Check Discord. Download the latest version"}
