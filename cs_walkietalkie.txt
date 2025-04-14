@@ -1,1 +1,1 @@
-{"version":"1.4.5", "notes":"New Update Check Discord, Download Now"}
+{"version":"1.4.6", "notes":"Channel Saving Feature Fixed (only main folder changed), Download Now"}
