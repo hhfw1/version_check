@@ -1,1 +1,1 @@
-{"version":"1.2.4", "notes":"New Complete ESX License + QB License Metadata Support, Download Latest Update"}
+{"version":"1.2.5", "notes":"New Complete Redesigned Job Badges, Download Latest Update"}
