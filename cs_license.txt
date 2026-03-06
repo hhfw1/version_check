@@ -1,1 +1,1 @@
-{"version":"1.2.5", "notes":"New Complete Redesigned Job Badges, Download Latest Update"}
+{"version":"2.0", "notes":"Major Update (Check Discord for Info), Download Latest Update"}
