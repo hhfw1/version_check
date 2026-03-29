@@ -1,1 +1,1 @@
-{"version":"1.6.3", "notes":"Gang Menu fix, Download Latest Version"}
+{"version":"2.0", "notes":"New Update (Check Discord for Info), Download Latest Update"}
