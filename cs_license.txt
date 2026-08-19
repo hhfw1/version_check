@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Minor Fixes & Exploit Patches"}
+{"version":"2.0.2", "notes":"Download Latest Update"}
