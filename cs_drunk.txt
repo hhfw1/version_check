@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"New Update Check Discord, Download Latest Version"}
+{"version":"2.0", "notes":"ALL New Drunk System 2.0, Download Latest Version"}
